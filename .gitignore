@@ -1,6 +1,6 @@
 # dependencies
-/node_modules
-/package-lock.json
+/admin/node_modules
+/admin/package-lock.json
 
 # /backend/uploads
 
